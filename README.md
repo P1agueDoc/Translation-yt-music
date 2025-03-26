@@ -1,6 +1,8 @@
 # Translation-yt-music
 Save of Translation
 
+Aviators - Dreams of the Deep (Call of Cthulhu Song | NEW ALBUM) 
+
 subtitles = [
 
     (1, "00:00:30,000", "00:00:31,000", "Храним..."),
